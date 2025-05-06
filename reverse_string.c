@@ -25,7 +25,7 @@ int main()
     //pushing all characters to stack
     for(int i=0 ; str[i] != '\0' ; i++)
     { push(str[i]); }
-    //Now print currently popped characters
+    //Now store popped characters in a new string
     int i = 0;
     printf("Reversed string : ");
     while(top != -1)
