@@ -1,9 +1,4 @@
-/*
-:::::::::::::::Array to Doubly Linked List Conversion::::::::::
 
-Linked List : 10 -> 20 -> 30 -> 40 -> NULL
-
-*/
 #include <stdio.h>
 #include <stdlib.h>
 
